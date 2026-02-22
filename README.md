@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8" />
@@ -467,10 +466,7 @@
     .service-list li {
       padding: 0.5rem 0;
       color: #666;
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-    }
+      display
 
     .service-list li:before {
       content: '✓';
